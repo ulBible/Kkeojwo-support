@@ -1,5 +1,15 @@
 # 꺼줘 (Kkeojwo) — Support
 
+## 설치 / Install
+
+**Homebrew** (공증된 Developer ID 빌드 / notarized Developer ID build):
+
+```sh
+brew install ulBible/chakchak/kkeojwo
+```
+
+Mac App Store 버전은 준비 중입니다. / Mac App Store version coming soon.
+
 **Keep Awake, Sleep & Shutdown Timer for macOS.** 정한 시각까지 깨어 있다가, 시간이 되면 꺼줘.
 *A Chakchak Works app — small tools that snap right in.*
 
